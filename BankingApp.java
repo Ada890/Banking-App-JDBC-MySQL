@@ -7,9 +7,9 @@ import java.util.Scanner;
 
 
 public class BankingApp {
-    private static final String url = "jdbc:mysql://localhost:3306/bankingSystem";
+    private static final String url = "jdbc:mysql://localhost:3306/<databaseName>";
     private static final String user = "root";
-    private static final String password = "l8a9l0a@AD";
+    private static final String password = "<password>";
 
     public static void main(String[] args) {
         try {
