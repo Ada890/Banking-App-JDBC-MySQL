@@ -51,7 +51,7 @@ java -cp .:mysql-connector-java.jar src.Main
 ✅ Add a **Web-Based Dashboard** using **React.js**  
 
 ## 📜 License
-This project is licensed under the **MIT License**.  
+This project is licensed under the **Dino@rmy**.  
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to **fork**, improve, and report any issues. 🚀  
